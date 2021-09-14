@@ -12,8 +12,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Acknowledgments](#acknowledgments)
 
 
-<br> 
-
 ### The Challenge
 
 Users should be able to:
