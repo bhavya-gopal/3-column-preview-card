@@ -57,7 +57,7 @@ button {
   color: white !important;
 }
 .main {
-  padding: 20px;
+  padding: 10px;
 }
 .cards {
   padding: 30px;
@@ -110,7 +110,7 @@ footer {
     font-family: "Lexend Deca", sans-serif;
     font-size: 15px;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     position: relative;
     right: 0;
     bottom: 0;
