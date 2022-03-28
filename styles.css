@@ -27,6 +27,7 @@ button {
 .button:hover {
   background-color: transparent;
   color: white;
+  transition: all 300ms ease-in-out;
 }
 #sedan {
   background-color: hsl(31, 77%, 52%);
@@ -51,10 +52,6 @@ button {
 }
 #luxury .button {
   color: hsl(179, 100%, 13%);
-}
-.button:hover {
-  background-color: transparent;
-  color: white !important;
 }
 .main {
   padding: 10px;
